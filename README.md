@@ -3,4 +3,5 @@ A cozy 2D fantasy game developed with Unity and C#. Help customers heal their si
 ## 📸 Screenshots
 
 ![Gameplay](Screenshots/Gameplay.png)
-
+![Customer Dialogue](Screenshots/dialogue.png)
+![Plant Treatment](Screenshots/treatment.png)
