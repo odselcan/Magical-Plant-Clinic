@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b584e0e2146c60c49ba6be14e26b8de5, type: 3}
+  m_Name: Witch
+  m_EditorClassIdentifier: Assembly-CSharp::CustomerData
+  customerName: 'Cadi Lili '
+  portrait: {fileID: -7659217054622421043, guid: f1d3228ce8117bf4cb9cf99a43787187, type: 3}
+  entryLines:
+  - "{0}'\u0131m hastaland\u0131."
+  - "Onu iyile\u015Ftirmeme yard\u0131m eder misin?"
+  curedLines:
+  - "\u0130nan\u0131lmaz! {0}'\u0131m yeniden canland\u0131."
+  - "\xC7ok te\u015Fekk\xFCr ederim!"

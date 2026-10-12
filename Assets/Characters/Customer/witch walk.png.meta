@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: fb93430c76b6d8243a2dca47a2884aad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6161070754210539384
+    second: witch_0
+  - first:
+      213: -4793536089062914485
+    second: witch_1
+  - first:
+      213: 1446085396551072795
+    second: witch_2
+  - first:
+      213: -1296917910504774718
+    second: witch_3
+  - first:
+      213: 8150378230139850462
+    second: witch_4
+  - first:
+      213: 4627851057977588833
+    second: witch_5
+  - first:
+      213: 8598073001099940306
+    second: witch_6
+  - first:
+      213: 8190057526632135862
+    second: witch_7
+  - first:
+      213: 4130314569305396639
+    second: witch_8
+  - first:
+      213: -3529584963905640801
+    second: witch_9
+  - first:
+      213: 3802989357508165382
+    second: witch_10
+  - first:
+      213: -7124819208492482280
+    second: witch_11
+  - first:
+      213: -8754525697562333123
+    second: witch_12
+  - first:
+      213: 108631366544865447
+    second: witch_13
+  - first:
+      213: -2277848822555775021
+    second: witch_14
+  - first:
+      213: -4009502831136379589
+    second: witch_15
+  - first:
+      213: 4333942755676591174
+    second: witch_16
+  - first:
+      213: 9037893645626413846
+    second: witch_17
+  - first:
+      213: 5394006930923550585
+    second: witch_18
+  - first:
+      213: 5909509537993385102
+    second: witch_19
+  - first:
+      213: 8680742438629614359
+    second: witch_20
+  - first:
+      213: 2619045481994046765
+    second: witch_21
+  - first:
+      213: 5973183398801502870
+    second: witch_22
+  - first:
+      213: 7649493352041872302
+    second: witch_23
+  - first:
+      213: 3282034538311618481
+    second: witch_24
+  - first:
+      213: 1181840253384739446
+    second: witch_25
+  - first:
+      213: 623159315357892458
+    second: witch_26
+  - first:
+      213: 4387639172768932576
+    second: witch_27
+  - first:
+      213: 8315166276967517835
+    second: witch_28
+  - first:
+      213: -2501562416943565112
+    second: witch_29
+  - first:
+      213: -788772743589692656
+    second: witch_30
+  - first:
+      213: 7179506169828439025
+    second: witch_31
+  - first:
+      213: -809094576931814430
+    second: witch_32
+  - first:
+      213: 4632711080258544019
+    second: witch_33
+  - first:
+      213: 2890237966499610179
+    second: witch_34
+  - first:
+      213: -2373341825579135828
+    second: witch_35
+  - first:
+      213: 6301267316585135818
+    second: witch_36
+  - first:
+      213: -7412475028590933472
+    second: witch_37
+  - first:
+      213: -3606991094003260679
+    second: witch_38
+  - first:
+      213: -1863228049708623840
+    second: witch_39
+  - first:
+      213: -251628173616619669
+    second: witch_40
+  - first:
+      213: 1173357684257712383
+    second: witch_41
+  - first:
+      213: -3977886749453011751
+    second: witch_42
+  - first:
+      213: -8992493493313460788
+    second: witch_43
+  - first:
+      213: 9202904808063710393
+    second: witch_44
+  - first:
+      213: -3054516075997140712
+    second: witch_45
+  - first:
+      213: 6781292526397299343
+    second: witch_46
+  - first:
+      213: 5833410450545235457
+    second: witch_47
+  - first:
+      213: -8045837153780080031
+    second: witch_48
+  - first:
+      213: 5283968933771910426
+    second: witch_49
+  - first:
+      213: -4100456727254606014
+    second: witch_50
+  - first:
+      213: 6524874559551938020
+    second: witch_51
+  - first:
+      213: -5038762674899961765
+    second: witch_52
+  - first:
+      213: -5544608656274961544
+    second: witch_53
+  - first:
+      213: 3405001499764970254
+    second: witch_54
+  - first:
+      213: 188898277235180971
+    second: witch_55
+  - first:
+      213: -5987301973938884162
+    second: witch_56
+  - first:
+      213: -545740548868139530
+    second: witch_57
+  - first:
+      213: 4180294574115298081
+    second: witch_58
+  - first:
+      213: 8297924059901775138
+    second: witch_59
+  - first:
+      213: -2124915157249202883
+    second: witch_60
+  - first:
+      213: -3702013320420935509
+    second: witch_61
+  - first:
+      213: -4956209337663823872
+    second: witch_62
+  - first:
+      213: -1348850549955845613
+    second: witch_63
+  - first:
+      213: -5954685308244269012
+    second: witch_64
+  - first:
+      213: -282191758740856026
+    second: witch_65
+  - first:
+      213: 9038483298937836311
+    second: witch_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk 1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 110
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dcc9bd7f5282370800000000000000
+      internalID: 8297924059901775138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 43
+        width: 109
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35615a3ce8c282e0800000000000000
+      internalID: -2124915157249202883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 43
+        width: 115
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8bb8acf7ecf9cc0800000000000000
+      internalID: -3702013320420935509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 44
+        width: 109
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000e214ddd1083bb0800000000000000
+      internalID: -4956209337663823872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 5
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 42
+        width: 108
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312aac2429be74de0800000000000000
+      internalID: -1348850549955845613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 6
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 45
+        width: 115
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ecdce245bc5da0800000000000000
+      internalID: -5954685308244269012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 7
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 43
+        width: 110
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62365bd2714751cf0800000000000000
+      internalID: -282191758740856026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 8
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 43
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139d752ca42f6d70800000000000000
+      internalID: 9038483298937836311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2afeb9c398298f64f9dfd8ae72183d6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle 1: -7412475028590933472
+      idle 2: -3606991094003260679
+      idle 3: -1863228049708623840
+      walk 1: 8297924059901775138
+      walk 2: -2124915157249202883
+      walk 3: -3702013320420935509
+      walk 4: -4956209337663823872
+      walk 5: -1348850549955845613
+      walk 6: -5954685308244269012
+      walk 7: -282191758740856026
+      walk 8: 9038483298937836311
+      witch_0: -6161070754210539384
+      witch_1: -4793536089062914485
+      witch_10: 3802989357508165382
+      witch_11: -7124819208492482280
+      witch_12: -8754525697562333123
+      witch_13: 108631366544865447
+      witch_14: -2277848822555775021
+      witch_15: -4009502831136379589
+      witch_16: 4333942755676591174
+      witch_17: 9037893645626413846
+      witch_18: 5394006930923550585
+      witch_19: 5909509537993385102
+      witch_2: 1446085396551072795
+      witch_20: 8680742438629614359
+      witch_21: 2619045481994046765
+      witch_22: 5973183398801502870
+      witch_23: 7649493352041872302
+      witch_24: 3282034538311618481
+      witch_25: 1181840253384739446
+      witch_26: 623159315357892458
+      witch_27: 4387639172768932576
+      witch_28: 8315166276967517835
+      witch_29: -2501562416943565112
+      witch_3: -1296917910504774718
+      witch_30: -788772743589692656
+      witch_31: 7179506169828439025
+      witch_32: -809094576931814430
+      witch_33: 4632711080258544019
+      witch_34: 2890237966499610179
+      witch_35: -2373341825579135828
+      witch_36: 6301267316585135818
+      witch_4: 8150378230139850462
+      witch_40: -251628173616619669
+      witch_41: 1173357684257712383
+      witch_42: -3977886749453011751
+      witch_43: -8992493493313460788
+      witch_44: 9202904808063710393
+      witch_45: -3054516075997140712
+      witch_46: 6781292526397299343
+      witch_47: 5833410450545235457
+      witch_48: -8045837153780080031
+      witch_49: 5283968933771910426
+      witch_5: 4627851057977588833
+      witch_50: -4100456727254606014
+      witch_51: 6524874559551938020
+      witch_52: -5038762674899961765
+      witch_53: -5544608656274961544
+      witch_54: 3405001499764970254
+      witch_55: 188898277235180971
+      witch_56: -5987301973938884162
+      witch_57: -545740548868139530
+      witch_58: 4180294574115298081
+      witch_7: 8190057526632135862
+      witch_8: 4130314569305396639
+      witch_9: -3529584963905640801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="ShopPanel" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sprite%20sheet/dialogue%20background-Photoroom.png?fileID=-5387889039486797097&amp;guid=86cdba416972c1b4297863eab526fef9&amp;type=3#dialogue background-Photoroom_0&quot;); margin-top: 0; -unity-background-scale-mode: stretch-to-fill; padding-top: 283px; padding-bottom: 186px; padding-right: 163px; padding-left: 192px;">
+        <ui:VisualElement name="Header" style="flex-grow: 0;">
+            <ui:Label text="İksir &amp; Malzeme Dükkanı" name="Title" style="font-size: 45px; -unity-text-align: upper-center; -unity-font-definition: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;);"/>
+            <ui:Label text="💰 100&#10;" name="Money" style="-unity-text-align: upper-right; font-size: 25px; height: 45px; width: 1462px; color: rgb(59, 32, 13); -unity-font-style: bold;"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="ItemGrid" style="flex-grow: 1; display: flex; background-image: none;">
+            <ui:VisualElement name="ItemCard" style="flex-grow: 0; display: flex; min-height: auto; width: 265px; height: 372px;">
+                <ui:VisualElement name="ItemImage" style="flex-grow: 0; display: flex; width: 200px; height: 200px; background-image: url(&quot;project://database/Assets/Sprite%20sheet/transparent-magic-potion-water-liquid-bottle-blue-1711085290204-Photoroom.png?fileID=2800000&amp;guid=43d66022aabaa5440a0a917e98f203ba&amp;type=3#transparent-magic-potion-water-liquid-bottle-blue-1711085290204-Photoroom&quot;); visibility: visible; -unity-background-scale-mode: scale-to-fit; flex-shrink: 1; flex-wrap: nowrap;"/>
+                <ui:Label text="Büyülü Su" name="ItemName" style="display: flex; height: auto; width: 120px; background-position-x: center; -unity-background-scale-mode: scale-to-fit; -unity-font-definition: url(&quot;project://database/Assets/TextMesh%20Pro/Examples%20&amp;%20Extras/Fonts/Roboto-Bold.ttf?fileID=12800000&amp;guid=4beb055f07aaff244873dec698d0363e&amp;type=3#Roboto-Bold&quot;); font-size: 20px;"/>
+                <ui:Label text="💰 20" name="ItemDescription" style="display: flex; font-size: 17px; width: 66px;"/>
+                <ui:Label text="Moonflower tedavisinde kullanılan büyülü su💧🌙" name="Price" style="display: flex; width: 222px; height: 49px; white-space: normal;"/>
+                <ui:Button text="Satın Al" name="BuyButton" style="display: flex;"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:Button text="Çık" name="CloseButton" parse-escape-sequences="true" style="display: flex; background-size: 50% 100%; width: 319px; -unity-text-align: middle-center; white-space: pre; text-overflow: clip; left: 623px; font-size: 14px;"/>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 1a6b3ea8cdf1cfb4a96082b1a3777f39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5131183307507033235
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_0"
+  - first:
+      213: -419740359373945826
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_1"
+  - first:
+      213: -5441386199985442080
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_2"
+  - first:
+      213: -4941088739325574256
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_3"
+  - first:
+      213: -3448741622083232168
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_4"
+  - first:
+      213: -715363210447429766
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_5"
+  - first:
+      213: -8908127380607520824
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_6"
+  - first:
+      213: -8562683864371419207
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_7"
+  - first:
+      213: -5362120615794037170
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_8"
+  - first:
+      213: 7117774621249081201
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_9"
+  - first:
+      213: 163928503363949483
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_10"
+  - first:
+      213: -5951408939622468722
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_11"
+  - first:
+      213: 487807395121263390
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_12"
+  - first:
+      213: 3422517414839531315
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_13"
+  - first:
+      213: 5520500186141752507
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_14"
+  - first:
+      213: -8627778280422200679
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_15"
+  - first:
+      213: -4224138859803135199
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_16"
+  - first:
+      213: -6152018469532043657
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_17"
+  - first:
+      213: -3174041485996412173
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_18"
+  - first:
+      213: 8897643898977093921
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_19"
+  - first:
+      213: 5530166310135831131
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_20"
+  - first:
+      213: 391631977633883560
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_21"
+  - first:
+      213: -8664522432218320007
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_22"
+  - first:
+      213: -2609371768225175706
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_23"
+  - first:
+      213: -6222707996121813253
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_24"
+  - first:
+      213: 5920069042505063092
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_25"
+  - first:
+      213: -1642813191180730686
+    second: "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_26"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Minty Sa\u011Fl\u0131kl\u0131"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 227
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394ee513800a53740800000000000000
+      internalID: 5131183307507033235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minty 1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 230
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e140f95fd58cc2af0800000000000000
+      internalID: -419740359373945826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minty 2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 230
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2b720b4105c74b0800000000000000
+      internalID: -5441386199985442080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minty 3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 230
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09301d878f9bd6bb0800000000000000
+      internalID: -4941088739325574256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lavender Sa\u011Fl\u0131kl\u0131"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 227
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85edf9554cb9320d0800000000000000
+      internalID: -3448741622083232168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lavender 1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 227
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd5e343f48216f0800000000000000
+      internalID: -715363210447429766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lavender 2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 227
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf25f83859ff5480800000000000000
+      internalID: -8908127380607520824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunFlower
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 130
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f87d27e4a67c260800000000000000
+      internalID: 7117774621249081201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunFlower 1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3d193fa14664200800000000000000
+      internalID: 163928503363949483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunFlower 2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 129
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83f7b0f919586da0800000000000000
+      internalID: -5951408939622468722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aloe Vera Sa\u011Fl\u0131kl\u0131"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 129
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13f209cd3a05c600800000000000000
+      internalID: 487807395121263390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aloe vera 1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 128
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337391d94793f7f20800000000000000
+      internalID: 3422517414839531315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aloe vera 2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcf471aba1cc9c40800000000000000
+      internalID: 5520500186141752507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mushroom Sa\u011Fl\u0131kl\u0131"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 27
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b4d4d51a83f3d0800000000000000
+      internalID: -3174041485996412173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom 1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12983700cf7ca7b70800000000000000
+      internalID: 8897643898977093921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom 2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 26
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a9a7085f81fbc40800000000000000
+      internalID: 5530166310135831131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moonflower sa\u011Fl\u0131kl\u0131"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 25
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a52d8d653b5f6500800000000000000
+      internalID: 391631977633883560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonflower 1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 25
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973393721ce61c780800000000000000
+      internalID: -8664522432218320007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonflower 2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667610ca336a9cbd0800000000000000
+      internalID: -2609371768225175706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba7aebda81cc1cd4dad32a396787ce7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Aloe Vera Sa\u011Fl\u0131kl\u0131": 487807395121263390
+      Aloe vera 1: 3422517414839531315
+      Aloe vera 2: 5520500186141752507
+      "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_15": -8627778280422200679
+      "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_16": -4224138859803135199
+      "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_17": -6152018469532043657
+      "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_24": -6222707996121813253
+      "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_25": 5920069042505063092
+      "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_26": -1642813191180730686
+      "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_7": -8562683864371419207
+      "Ekran g\xF6r\xFCnt\xFCs\xFC 2026-09-18 003923-Photoroom_8": -5362120615794037170
+      Lavender 1: -715363210447429766
+      Lavender 2: -8908127380607520824
+      "Lavender Sa\u011Fl\u0131kl\u0131": -3448741622083232168
+      Minty 1: -419740359373945826
+      Minty 2: -5441386199985442080
+      Minty 3: -4941088739325574256
+      "Minty Sa\u011Fl\u0131kl\u0131": 5131183307507033235
+      Moonflower 1: -8664522432218320007
+      Moonflower 2: -2609371768225175706
+      "Moonflower sa\u011Fl\u0131kl\u0131": 391631977633883560
+      Mushroom 1: 8897643898977093921
+      Mushroom 2: 5530166310135831131
+      "Mushroom Sa\u011Fl\u0131kl\u0131": -3174041485996412173
+      SunFlower: 7117774621249081201
+      SunFlower 1: 163928503363949483
+      SunFlower 2: -5951408939622468722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

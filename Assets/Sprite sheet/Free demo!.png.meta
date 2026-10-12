@@ -1,0 +1,2096 @@
+fileFormatVersion: 2
+guid: 8254002d7dd6a4f4688dba550fcef6a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8597842129915626359
+    second: Free demo!_0
+  - first:
+      213: -3744958500002630508
+    second: Free demo!_1
+  - first:
+      213: 2993615737170448024
+    second: Free demo!_2
+  - first:
+      213: 6839069394552279165
+    second: Free demo!_3
+  - first:
+      213: 6406931981632855093
+    second: Free demo!_4
+  - first:
+      213: 1452643243135116965
+    second: Free demo!_5
+  - first:
+      213: -8741001122990174802
+    second: Free demo!_6
+  - first:
+      213: -7153357747687163194
+    second: Free demo!_7
+  - first:
+      213: -8964743777788984197
+    second: Free demo!_8
+  - first:
+      213: -6943407664636240472
+    second: Free demo!_9
+  - first:
+      213: 1912891137784773462
+    second: Free demo!_10
+  - first:
+      213: 4258227396147852164
+    second: Free demo!_11
+  - first:
+      213: -5955913472454933805
+    second: Free demo!_12
+  - first:
+      213: -3198859392669286637
+    second: Free demo!_13
+  - first:
+      213: 8142589390228909938
+    second: Free demo!_14
+  - first:
+      213: 5832764931530408642
+    second: Free demo!_15
+  - first:
+      213: -4358401487082026008
+    second: Free demo!_16
+  - first:
+      213: -5846877487398665610
+    second: Free demo!_17
+  - first:
+      213: 1812264665756923779
+    second: Free demo!_18
+  - first:
+      213: 2476982597897775695
+    second: Free demo!_19
+  - first:
+      213: 224737213350566929
+    second: Free demo!_20
+  - first:
+      213: -4072755126218454263
+    second: Free demo!_21
+  - first:
+      213: 1251964011792597234
+    second: Free demo!_22
+  - first:
+      213: 1404582217530877802
+    second: Free demo!_23
+  - first:
+      213: -3895463539786272685
+    second: Free demo!_24
+  - first:
+      213: 5613583393600905634
+    second: Free demo!_25
+  - first:
+      213: 388158963727152029
+    second: Free demo!_26
+  - first:
+      213: 6055559546276919471
+    second: Free demo!_27
+  - first:
+      213: 3270983443690886
+    second: Free demo!_28
+  - first:
+      213: 5405293705063702098
+    second: Free demo!_29
+  - first:
+      213: -8447559486534629647
+    second: Free demo!_30
+  - first:
+      213: 1684233808878110631
+    second: Free demo!_31
+  - first:
+      213: 2384598673598428335
+    second: Free demo!_32
+  - first:
+      213: -5658639515223048182
+    second: Free demo!_33
+  - first:
+      213: -4811233927020034251
+    second: Free demo!_34
+  - first:
+      213: 4586495877813335344
+    second: Free demo!_35
+  - first:
+      213: -6930497568956171825
+    second: Free demo!_36
+  - first:
+      213: -5026594223686699459
+    second: Free demo!_37
+  - first:
+      213: 6217583827869160401
+    second: Free demo!_38
+  - first:
+      213: -2375434448456441697
+    second: Free demo!_39
+  - first:
+      213: 3392117039182259153
+    second: Free demo!_40
+  - first:
+      213: -3296080850228924045
+    second: Free demo!_41
+  - first:
+      213: -4693363546031860888
+    second: Free demo!_42
+  - first:
+      213: 7327668349695181694
+    second: Free demo!_43
+  - first:
+      213: 4998479652652918249
+    second: Free demo!_44
+  - first:
+      213: -4649176538549141107
+    second: Free demo!_45
+  - first:
+      213: 6951402554695550822
+    second: Free demo!_46
+  - first:
+      213: -4171069737156990953
+    second: Free demo!_47
+  - first:
+      213: 8126534829846083972
+    second: Free demo!_48
+  - first:
+      213: -7643731914939561162
+    second: Free demo!_49
+  - first:
+      213: 1400250524646037970
+    second: Free demo!_50
+  - first:
+      213: 1642204730185986212
+    second: Free demo!_51
+  - first:
+      213: 7428202659941431248
+    second: Free demo!_52
+  - first:
+      213: 8834373077787533817
+    second: Free demo!_53
+  - first:
+      213: 8302165780311847927
+    second: Free demo!_54
+  - first:
+      213: 6676693682910165654
+    second: Free demo!_55
+  - first:
+      213: 6175440463447883519
+    second: Free demo!_56
+  - first:
+      213: -6772604865630310199
+    second: Free demo!_57
+  - first:
+      213: 3827031314044109259
+    second: Free demo!_58
+  - first:
+      213: 5474622413284133182
+    second: Free demo!_59
+  - first:
+      213: -3460388254425436110
+    second: Free demo!_60
+  - first:
+      213: -8339199891567167041
+    second: Free demo!_61
+  - first:
+      213: 8626632593627001824
+    second: Free demo!_62
+  - first:
+      213: -408897847328679008
+    second: Free demo!_63
+  - first:
+      213: -8634230462391380947
+    second: Free demo!_64
+  - first:
+      213: -3146291355085893242
+    second: Free demo!_65
+  - first:
+      213: 6105012036414366404
+    second: Free demo!_66
+  - first:
+      213: 21803987671530539
+    second: Free demo!_67
+  - first:
+      213: 7090046765705044563
+    second: Free demo!_68
+  - first:
+      213: 1425366947406893219
+    second: Free demo!_69
+  - first:
+      213: 614468194846581979
+    second: Free demo!_70
+  - first:
+      213: -3909144409795306000
+    second: Free demo!_71
+  - first:
+      213: 4165561383200234474
+    second: Free demo!_72
+  - first:
+      213: 6155179256279192553
+    second: Free demo!_73
+  - first:
+      213: 8068697024656327253
+    second: Free demo!_74
+  - first:
+      213: 6512013603104330391
+    second: Free demo!_75
+  - first:
+      213: 2036731864916243955
+    second: Free demo!_76
+  - first:
+      213: -8032588782094219177
+    second: Free demo!_77
+  - first:
+      213: 581480377975855739
+    second: Free demo!_78
+  - first:
+      213: -4545084654240574594
+    second: Free demo!_79
+  - first:
+      213: -5928718432162214554
+    second: Free demo!_80
+  - first:
+      213: 1826608990545996078
+    second: Free demo!_81
+  - first:
+      213: -8238770046076504717
+    second: Free demo!_82
+  - first:
+      213: 8892243587923097436
+    second: Free demo!_83
+  - first:
+      213: 6053973464981526149
+    second: Free demo!_84
+  - first:
+      213: -3402998584417416502
+    second: Free demo!_85
+  - first:
+      213: 3790088120592912758
+    second: Free demo!_86
+  - first:
+      213: -2140603500527482571
+    second: Free demo!_87
+  - first:
+      213: -7889173562071522906
+    second: Free demo!_88
+  - first:
+      213: 2523339366684224046
+    second: Free demo!_89
+  - first:
+      213: -206292439355945460
+    second: Free demo!_90
+  - first:
+      213: 7630728159242955274
+    second: Free demo!_91
+  - first:
+      213: -1030582134803645815
+    second: Free demo!_92
+  - first:
+      213: -2349689917818628023
+    second: Free demo!_93
+  - first:
+      213: -3639557015281165635
+    second: Free demo!_94
+  - first:
+      213: 6284779542773265446
+    second: Free demo!_95
+  - first:
+      213: -7514491047418147230
+    second: Free demo!_96
+  - first:
+      213: -2564101573781470850
+    second: Free demo!_97
+  - first:
+      213: -4578573750430270758
+    second: Free demo!_98
+  - first:
+      213: 8534314343066322733
+    second: Free demo!_99
+  - first:
+      213: -825446352926615347
+    second: Free demo!_100
+  - first:
+      213: -6441104729071977770
+    second: Free demo!_101
+  - first:
+      213: -9040505049964241754
+    second: Free demo!_102
+  - first:
+      213: -6135242451020093631
+    second: Free demo!_103
+  - first:
+      213: 2689379054282125469
+    second: Free demo!_104
+  - first:
+      213: -5715243125577943677
+    second: Free demo!_105
+  - first:
+      213: 7789650131420385858
+    second: Free demo!_106
+  - first:
+      213: 6891713124456741547
+    second: Free demo!_107
+  - first:
+      213: -8891756881020023217
+    second: Free demo!_108
+  - first:
+      213: -2461658560630764709
+    second: Free demo!_109
+  - first:
+      213: -4490623598759937191
+    second: Free demo!_110
+  - first:
+      213: -3528146782631834017
+    second: Free demo!_111
+  - first:
+      213: -7020241354666179853
+    second: Free demo!_112
+  - first:
+      213: -8451302120717077760
+    second: Free demo!_113
+  - first:
+      213: 3639898886862520415
+    second: Free demo!_114
+  - first:
+      213: -1256956986030114277
+    second: Free demo!_115
+  - first:
+      213: 2800526791749601183
+    second: Free demo!_116
+  - first:
+      213: -1610323319663914975
+    second: Free demo!_117
+  - first:
+      213: 2436431069545654137
+    second: Free demo!_118
+  - first:
+      213: -6010654540142635058
+    second: Free demo!_119
+  - first:
+      213: 2056190234579558602
+    second: Free demo!_120
+  - first:
+      213: 1467890870058182010
+    second: Free demo!_121
+  - first:
+      213: -2223537116114710992
+    second: Free demo!_122
+  - first:
+      213: -8703526413216025448
+    second: Free demo!_123
+  - first:
+      213: -6799031538110233584
+    second: Free demo!_124
+  - first:
+      213: 3092499586309709471
+    second: Free demo!_125
+  - first:
+      213: -8004565783154107960
+    second: Free demo!_126
+  - first:
+      213: 2327895003416662977
+    second: Free demo!_127
+  - first:
+      213: -4175129582683466578
+    second: Free demo!_128
+  - first:
+      213: 1055426118590417904
+    second: Free demo!_129
+  - first:
+      213: -4672310821406237799
+    second: Free demo!_130
+  - first:
+      213: -3893630603576594917
+    second: Free demo!_131
+  - first:
+      213: 3069244388323159198
+    second: Free demo!_132
+  - first:
+      213: 7760008379711474698
+    second: Free demo!_133
+  - first:
+      213: -788585658274572408
+    second: Free demo!_134
+  - first:
+      213: 8047286333111622749
+    second: Free demo!_135
+  - first:
+      213: 3459766643716302917
+    second: Free demo!_136
+  - first:
+      213: 4166986440410542190
+    second: Free demo!_137
+  - first:
+      213: 4136902801752635654
+    second: Free demo!_138
+  - first:
+      213: 972120597850890656
+    second: Free demo!_139
+  - first:
+      213: 5995867696585860935
+    second: Free demo!_140
+  - first:
+      213: -2366649889554109680
+    second: Free demo!_141
+  - first:
+      213: 8469487369776588688
+    second: Free demo!_142
+  - first:
+      213: -560321439101225407
+    second: Free demo!_143
+  - first:
+      213: 7621575560876813289
+    second: Free demo!_144
+  - first:
+      213: 3479150235104884913
+    second: Free demo!_145
+  - first:
+      213: 7733478692466352272
+    second: Free demo!_146
+  - first:
+      213: -1591134242088468203
+    second: Free demo!_147
+  - first:
+      213: -204533629415837170
+    second: Free demo!_148
+  - first:
+      213: 4928310385728762796
+    second: Free demo!_149
+  - first:
+      213: -7848525106571064786
+    second: Free demo!_150
+  - first:
+      213: -6781009255834957699
+    second: Free demo!_151
+  - first:
+      213: -1335468796290533006
+    second: Free demo!_152
+  - first:
+      213: -7927169882994333359
+    second: Free demo!_153
+  - first:
+      213: 770589101569102481
+    second: Free demo!_154
+  - first:
+      213: 5865066621167293524
+    second: Free demo!_155
+  - first:
+      213: 2601640609606238736
+    second: Free demo!_156
+  - first:
+      213: -1606323940219186141
+    second: Free demo!_157
+  - first:
+      213: -984189860786465730
+    second: Free demo!_158
+  - first:
+      213: 8468372082489309796
+    second: Free demo!_159
+  - first:
+      213: 3651328944246032389
+    second: Free demo!_160
+  - first:
+      213: 5161461135282962674
+    second: Free demo!_161
+  - first:
+      213: 5995476445726054313
+    second: Free demo!_162
+  - first:
+      213: 2156717787691446077
+    second: Free demo!_163
+  - first:
+      213: -5921719750193617334
+    second: Free demo!_164
+  - first:
+      213: -7753229210641101443
+    second: Free demo!_165
+  - first:
+      213: 9171408475953126772
+    second: Free demo!_166
+  - first:
+      213: 5932060572596193680
+    second: Free demo!_167
+  - first:
+      213: 1890461358229944464
+    second: Free demo!_168
+  - first:
+      213: -8719149066266854004
+    second: Free demo!_169
+  - first:
+      213: -2772825018502090987
+    second: Free demo!_170
+  - first:
+      213: -4492132695272156474
+    second: Free demo!_171
+  - first:
+      213: 6493181225306788646
+    second: Free demo!_172
+  - first:
+      213: -3876255335817634554
+    second: Free demo!_173
+  - first:
+      213: -336873883126090636
+    second: Free demo!_174
+  - first:
+      213: 7352425581670899693
+    second: Free demo!_175
+  - first:
+      213: -7073626108604995436
+    second: Free demo!_176
+  - first:
+      213: -1500736465485517701
+    second: Free demo!_177
+  - first:
+      213: -3032386928408479255
+    second: Free demo!_178
+  - first:
+      213: -469141123448041201
+    second: Free demo!_179
+  - first:
+      213: 3976740935077080387
+    second: Free demo!_180
+  - first:
+      213: 3447870996224250821
+    second: Free demo!_181
+  - first:
+      213: -1267162435342418706
+    second: Free demo!_182
+  - first:
+      213: 5144841831692242412
+    second: Free demo!_183
+  - first:
+      213: -7855315317759109546
+    second: Free demo!_184
+  - first:
+      213: -1495929700630836983
+    second: Free demo!_185
+  - first:
+      213: -3561216309765673702
+    second: Free demo!_186
+  - first:
+      213: -888432981379825408
+    second: Free demo!_187
+  - first:
+      213: 4200583483517789630
+    second: Free demo!_188
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free demo!_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 825
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cbd7bd2245ea880800000000000000
+      internalID: -8597842129915626359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 807
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d24c59a048585da0800000000000000
+      internalID: -5955913472454933805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 825
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a702e8c9b99f5710800000000000000
+      internalID: 1684233808878110631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 825
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4b3b70cdbc71120800000000000000
+      internalID: 2384598673598428335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 824
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00442777597871b0800000000000000
+      internalID: -5658639515223048182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_34
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 819
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537c9a00c301b3db0800000000000000
+      internalID: -4811233927020034251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_35
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 813
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0357bd853b186af30800000000000000
+      internalID: 4586495877813335344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_36
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 803
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9b8ad2e2de1df90800000000000000
+      internalID: -6930497568956171825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_37
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 808
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36bf138f23fd3ab0800000000000000
+      internalID: -5026594223686699459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 762
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3da5d9c8b494650800000000000000
+      internalID: 6217583827869160401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 653
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b33750884ac610800000000000000
+      internalID: 1642204730185986212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 653
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7bb6186f6461760800000000000000
+      internalID: 7428202659941431248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 654
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1eccaf18ff99a70800000000000000
+      internalID: 8834373077787533817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_54
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 653
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f334e95ac7373370800000000000000
+      internalID: 8302165780311847927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_55
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 659
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a74fba78168ac50800000000000000
+      internalID: 6676693682910165654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_56
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 659
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe7263f16293b550800000000000000
+      internalID: 6175440463447883519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_57
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 654
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0f50ce1cfd202a0800000000000000
+      internalID: -6772604865630310199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_58
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 643
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc145e124b85c1530800000000000000
+      internalID: 3827031314044109259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_59
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 643
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39413f3414c9fb40800000000000000
+      internalID: 5474622413284133182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_60
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 643
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230b90e673b3affc0800000000000000
+      internalID: -3460388254425436110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 468
+        width: 123
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55244e2b135c9ff60800000000000000
+      internalID: 8068697024656327253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 471
+        width: 142
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7929b81bed15f5a50800000000000000
+      internalID: 6512013603104330391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_76
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 472
+        width: 114
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f53d0f07dce34c10800000000000000
+      internalID: 2036731864916243955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_77
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 472
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588c78af03868090800000000000000
+      internalID: -8032588782094219177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_78
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 468
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a5c1da255d11800800000000000000
+      internalID: 581480377975855739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_79
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 467
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7359ed769d9ce0c0800000000000000
+      internalID: -4545084654240574594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_80
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 468
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d09a56ff5f8bda0800000000000000
+      internalID: -5928718432162214554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_81
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 468
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e296709f23b695910800000000000000
+      internalID: 1826608990545996078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 283
+        width: 61
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3753b714b420aad80800000000000000
+      internalID: -8238770046076504717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_99
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 284
+        width: 76
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d274df3ada9ff6670800000000000000
+      internalID: 8534314343066322733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_100
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 295
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8daa85aec6b84f0800000000000000
+      internalID: -825446352926615347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_101
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 273
+        width: 84
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da739610699c96a0800000000000000
+      internalID: -6441104729071977770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_102
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 277
+        width: 69
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac91c24e8ca98280800000000000000
+      internalID: -9040505049964241754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_103
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 287
+        width: 89
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147ec082f7d3bdaa0800000000000000
+      internalID: -6135242451020093631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_104
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 288
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90bcdc3008925520800000000000000
+      internalID: 2689379054282125469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_105
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 285
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385feee68a06fa0b0800000000000000
+      internalID: -5715243125577943677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_120
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 127
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0edbacf1e098c10800000000000000
+      internalID: 2056190234579558602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_121
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 128
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a756bd618fefe5410800000000000000
+      internalID: 1467890870058182010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_122
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 131
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e061116c86421e0800000000000000
+      internalID: -2223537116114710992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_123
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 129
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894770727dcd63780800000000000000
+      internalID: -8703526413216025448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_124
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 137
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0140342c6dcf4a1a0800000000000000
+      internalID: -6799031538110233584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_125
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 184
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e580e2df3caea20800000000000000
+      internalID: 3092499586309709471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_126
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 161
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c95ad984d11ae090800000000000000
+      internalID: -8004565783154107960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_127
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 179
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c39e010c285e4020800000000000000
+      internalID: 2327895003416662977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_128
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 172
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea45dece3c5fe06c0800000000000000
+      internalID: -4175129582683466578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_129
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 129
+        width: 114
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb40458670a5ae00800000000000000
+      internalID: 1055426118590417904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_130
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 129
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b1ed9101e982fb0800000000000000
+      internalID: -4672310821406237799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_131
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 124
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e2a3b689b07f9c0800000000000000
+      internalID: -3893630603576594917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_132
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 150
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cecd67285289a20800000000000000
+      internalID: 3069244388323159198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_133
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cc1cec18611bb60800000000000000
+      internalID: 7760008379711474698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_134
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 151
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887939b95816e05f0800000000000000
+      internalID: -788585658274572408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_135
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c59fa9844bdaf60800000000000000
+      internalID: 8047286333111622749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_136
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 42
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a47c8e6f830030800000000000000
+      internalID: 3459766643716302917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_166
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 42
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d513baa63674f70800000000000000
+      internalID: 9171408475953126772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free demo!_177
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 25
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca249c2205c2be0800000000000000
+      internalID: -1500736465485517701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2d8f06fc5bfa910498ea62423cf24201
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Free demo!_0: -8597842129915626359
+      Free demo!_1: -3744958500002630508
+      Free demo!_10: 1912891137784773462
+      Free demo!_100: -825446352926615347
+      Free demo!_101: -6441104729071977770
+      Free demo!_102: -9040505049964241754
+      Free demo!_103: -6135242451020093631
+      Free demo!_104: 2689379054282125469
+      Free demo!_105: -5715243125577943677
+      Free demo!_106: 7789650131420385858
+      Free demo!_107: 6891713124456741547
+      Free demo!_108: -8891756881020023217
+      Free demo!_109: -2461658560630764709
+      Free demo!_11: 4258227396147852164
+      Free demo!_110: -4490623598759937191
+      Free demo!_111: -3528146782631834017
+      Free demo!_112: -7020241354666179853
+      Free demo!_113: -8451302120717077760
+      Free demo!_114: 3639898886862520415
+      Free demo!_115: -1256956986030114277
+      Free demo!_116: 2800526791749601183
+      Free demo!_117: -1610323319663914975
+      Free demo!_118: 2436431069545654137
+      Free demo!_119: -6010654540142635058
+      Free demo!_12: -5955913472454933805
+      Free demo!_120: 2056190234579558602
+      Free demo!_121: 1467890870058182010
+      Free demo!_122: -2223537116114710992
+      Free demo!_123: -8703526413216025448
+      Free demo!_124: -6799031538110233584
+      Free demo!_125: 3092499586309709471
+      Free demo!_126: -8004565783154107960
+      Free demo!_127: 2327895003416662977
+      Free demo!_128: -4175129582683466578
+      Free demo!_129: 1055426118590417904
+      Free demo!_13: -3198859392669286637
+      Free demo!_130: -4672310821406237799
+      Free demo!_131: -3893630603576594917
+      Free demo!_132: 3069244388323159198
+      Free demo!_133: 7760008379711474698
+      Free demo!_134: -788585658274572408
+      Free demo!_135: 8047286333111622749
+      Free demo!_136: 3459766643716302917
+      Free demo!_137: 4166986440410542190
+      Free demo!_138: 4136902801752635654
+      Free demo!_139: 972120597850890656
+      Free demo!_14: 8142589390228909938
+      Free demo!_140: 5995867696585860935
+      Free demo!_141: -2366649889554109680
+      Free demo!_142: 8469487369776588688
+      Free demo!_143: -560321439101225407
+      Free demo!_144: 7621575560876813289
+      Free demo!_145: 3479150235104884913
+      Free demo!_146: 7733478692466352272
+      Free demo!_147: -1591134242088468203
+      Free demo!_148: -204533629415837170
+      Free demo!_149: 4928310385728762796
+      Free demo!_15: 5832764931530408642
+      Free demo!_150: -7848525106571064786
+      Free demo!_151: -6781009255834957699
+      Free demo!_152: -1335468796290533006
+      Free demo!_153: -7927169882994333359
+      Free demo!_154: 770589101569102481
+      Free demo!_155: 5865066621167293524
+      Free demo!_156: 2601640609606238736
+      Free demo!_157: -1606323940219186141
+      Free demo!_158: -984189860786465730
+      Free demo!_159: 8468372082489309796
+      Free demo!_16: -4358401487082026008
+      Free demo!_160: 3651328944246032389
+      Free demo!_161: 5161461135282962674
+      Free demo!_162: 5995476445726054313
+      Free demo!_163: 2156717787691446077
+      Free demo!_164: -5921719750193617334
+      Free demo!_165: -7753229210641101443
+      Free demo!_166: 9171408475953126772
+      Free demo!_167: 5932060572596193680
+      Free demo!_168: 1890461358229944464
+      Free demo!_169: -8719149066266854004
+      Free demo!_17: -5846877487398665610
+      Free demo!_170: -2772825018502090987
+      Free demo!_171: -4492132695272156474
+      Free demo!_172: 6493181225306788646
+      Free demo!_173: -3876255335817634554
+      Free demo!_174: -336873883126090636
+      Free demo!_175: 7352425581670899693
+      Free demo!_176: -7073626108604995436
+      Free demo!_177: -1500736465485517701
+      Free demo!_178: -3032386928408479255
+      Free demo!_179: -469141123448041201
+      Free demo!_18: 1812264665756923779
+      Free demo!_180: 3976740935077080387
+      Free demo!_181: 3447870996224250821
+      Free demo!_182: -1267162435342418706
+      Free demo!_183: 5144841831692242412
+      Free demo!_184: -7855315317759109546
+      Free demo!_185: -1495929700630836983
+      Free demo!_186: -3561216309765673702
+      Free demo!_187: -888432981379825408
+      Free demo!_188: 4200583483517789630
+      Free demo!_19: 2476982597897775695
+      Free demo!_2: 2993615737170448024
+      Free demo!_20: 224737213350566929
+      Free demo!_21: -4072755126218454263
+      Free demo!_22: 1251964011792597234
+      Free demo!_23: 1404582217530877802
+      Free demo!_24: -3895463539786272685
+      Free demo!_25: 5613583393600905634
+      Free demo!_26: 388158963727152029
+      Free demo!_27: 6055559546276919471
+      Free demo!_28: 3270983443690886
+      Free demo!_29: 5405293705063702098
+      Free demo!_3: 6839069394552279165
+      Free demo!_30: -8447559486534629647
+      Free demo!_31: 1684233808878110631
+      Free demo!_32: 2384598673598428335
+      Free demo!_33: -5658639515223048182
+      Free demo!_34: -4811233927020034251
+      Free demo!_35: 4586495877813335344
+      Free demo!_36: -6930497568956171825
+      Free demo!_37: -5026594223686699459
+      Free demo!_38: 6217583827869160401
+      Free demo!_39: -2375434448456441697
+      Free demo!_4: 6406931981632855093
+      Free demo!_40: 3392117039182259153
+      Free demo!_41: -3296080850228924045
+      Free demo!_42: -4693363546031860888
+      Free demo!_43: 7327668349695181694
+      Free demo!_44: 4998479652652918249
+      Free demo!_45: -4649176538549141107
+      Free demo!_46: 6951402554695550822
+      Free demo!_47: -4171069737156990953
+      Free demo!_48: 8126534829846083972
+      Free demo!_49: -7643731914939561162
+      Free demo!_5: 1452643243135116965
+      Free demo!_50: 1400250524646037970
+      Free demo!_51: 1642204730185986212
+      Free demo!_52: 7428202659941431248
+      Free demo!_53: 8834373077787533817
+      Free demo!_54: 8302165780311847927
+      Free demo!_55: 6676693682910165654
+      Free demo!_56: 6175440463447883519
+      Free demo!_57: -6772604865630310199
+      Free demo!_58: 3827031314044109259
+      Free demo!_59: 5474622413284133182
+      Free demo!_6: -8741001122990174802
+      Free demo!_60: -3460388254425436110
+      Free demo!_61: -8339199891567167041
+      Free demo!_62: 8626632593627001824
+      Free demo!_63: -408897847328679008
+      Free demo!_64: -8634230462391380947
+      Free demo!_65: -3146291355085893242
+      Free demo!_66: 6105012036414366404
+      Free demo!_67: 21803987671530539
+      Free demo!_68: 7090046765705044563
+      Free demo!_69: 1425366947406893219
+      Free demo!_7: -7153357747687163194
+      Free demo!_70: 614468194846581979
+      Free demo!_71: -3909144409795306000
+      Free demo!_72: 4165561383200234474
+      Free demo!_73: 6155179256279192553
+      Free demo!_74: 8068697024656327253
+      Free demo!_75: 6512013603104330391
+      Free demo!_76: 2036731864916243955
+      Free demo!_77: -8032588782094219177
+      Free demo!_78: 581480377975855739
+      Free demo!_79: -4545084654240574594
+      Free demo!_8: -8964743777788984197
+      Free demo!_80: -5928718432162214554
+      Free demo!_81: 1826608990545996078
+      Free demo!_82: -8238770046076504717
+      Free demo!_83: 8892243587923097436
+      Free demo!_84: 6053973464981526149
+      Free demo!_85: -3402998584417416502
+      Free demo!_86: 3790088120592912758
+      Free demo!_87: -2140603500527482571
+      Free demo!_88: -7889173562071522906
+      Free demo!_89: 2523339366684224046
+      Free demo!_9: -6943407664636240472
+      Free demo!_90: -206292439355945460
+      Free demo!_91: 7630728159242955274
+      Free demo!_92: -1030582134803645815
+      Free demo!_93: -2349689917818628023
+      Free demo!_94: -3639557015281165635
+      Free demo!_95: 6284779542773265446
+      Free demo!_96: -7514491047418147230
+      Free demo!_97: -2564101573781470850
+      Free demo!_98: -4578573750430270758
+      Free demo!_99: 8534314343066322733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
